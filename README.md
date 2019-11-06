@@ -1,2 +1,2 @@
 # Type1OrType2
-Provides the class which can be substituded two optional types.
+Provides you with the class which can be substituded two optional types.
